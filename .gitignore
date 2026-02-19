@@ -1,19 +1,30 @@
-# virtual environments
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
 venv/
 .venv/
 
-# Python cache
-__pycache__/
-*.pyc
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# Data / models
+*.csv
+models/
+*.joblib
+*.pkl
+
+# Kaggle cache (optional)
+.cache/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# artifacts / models (optional)
-artifacts/
-*.joblib
-*.pkl
 
-# OS
-.DS_Store
-Thumbs.db
+

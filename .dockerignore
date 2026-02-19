@@ -1,0 +1,23 @@
+# Python cache / env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Not needed in image
+notebooks/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db

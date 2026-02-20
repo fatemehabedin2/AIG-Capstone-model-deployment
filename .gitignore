@@ -15,8 +15,25 @@ venv/
 Thumbs.db
 
 # Data / models
+*.csvPython
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
+venv/
+.venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# Data / models
 *.csv
-models/
+
 *.joblib
 *.pkl
 
@@ -25,6 +42,16 @@ models/
 
 # Jupyter
 .ipynb_checkpoints/
+models/*.joblib
+*.joblib
+*.pkl
+
+# Kaggle cache (optional)
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
 
 
 

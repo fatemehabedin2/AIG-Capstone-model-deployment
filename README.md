@@ -16,8 +16,7 @@ https://energy-api-117171702986.northamerica-northeast2.run.app/docs
 
 for health check: Expand /health  >> Click Try it out  >> Execute >> response appears
 
-for prediction: Expand /predict >> Paste API Key:energy-2026-secure-key
-Click Try it out  >> Paste request body in JSON format >> Execute >> response appears
+for prediction: Expand /predict >> Click Try it out and Paste API Key:energy-2026-secure-key >> Paste request body in JSON format >> Execute >> response appears
 
 API Key:
 energy-2026-secure-key
@@ -240,4 +239,5 @@ energy-api:1.0
 
 Bibi F. Abidin Do  
 Machine Learning Model Deployment Assignment  
+
 

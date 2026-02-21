@@ -23,6 +23,7 @@ API Key:
 energy-2026-secure-key
 
 Note: In real-world production systems, API keys should never be exposed publicly. It is included here only for assignment testing purposes.
+
 Request body example:
 {
   "date": "2016-01-11 20:00:00",
@@ -239,3 +240,4 @@ energy-api:1.0
 
 Bibi F. Abidin Do  
 Machine Learning Model Deployment Assignment  
+
